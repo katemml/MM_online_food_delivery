@@ -67,7 +67,7 @@
 
 
 
-
+[product-screenshot]: images/screenshot1.png
 
 
 
