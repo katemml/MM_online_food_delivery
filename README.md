@@ -47,7 +47,7 @@
 
 
 ### Built With
-
+#### Spring, Hibernate, Spring MVC, Spring Security, React
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
