@@ -33,6 +33,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot2]](https://example.com)
 
 
 * Implemented Rest API via Spring MVC including registration, menu searching , ordering, and checkout. 
@@ -68,6 +69,7 @@
 
 
 [product-screenshot]: images/screenshot1.png
+[product-screenshot2]: images/screenshot2.png
 
 
 
