@@ -56,12 +56,28 @@
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Feature Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] Complete @Controller, @RequestMapping, @RequestBody
+- [X] Setup MySQL on Amazon RDS
+- [X] Hibernate implmentation
+    - [X] Create ER Diagram
+    - [X] Add java classes to entity package
+- [X] Spring MVC implmentation  
+    - [X] Get restaurant and corresponding menu info
+    - [X] Add menu item to cart
+    - [X] Get user's cart
+    - [X] Checkout
+- [X] Front end
+    - [X] Build login form
+    - [X] Build food list
+    - [X] Build my cart
+    - [X] integrate everything
+- [X] Deploy to AWS EC2
+
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
