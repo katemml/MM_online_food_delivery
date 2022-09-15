@@ -47,6 +47,7 @@
 ### Structure of project
 ![Product Name Screen Shot][structure]
 
+
 ### Built With
 #### Spring, Hibernate, Spring MVC, Spring Security, React
 
