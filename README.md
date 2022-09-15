@@ -44,7 +44,8 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+### Structure of project
+[![Product Name Screen Shot][structure]]
 
 ### Built With
 #### Spring, Hibernate, Spring MVC, Spring Security, React
@@ -70,6 +71,7 @@
 
 [product-screenshot]: images/screenshot1.png
 [product-screenshot2]: images/screenshot2.png
+[structure]: images/structure.png
 
 
 
