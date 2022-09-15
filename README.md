@@ -68,6 +68,7 @@
     - [X] Add menu item to cart
     - [X] Get user's cart
     - [X] Checkout
+- [X] Enable Spring Security
 - [X] Front end
     - [X] Build login form
     - [X] Build food list
